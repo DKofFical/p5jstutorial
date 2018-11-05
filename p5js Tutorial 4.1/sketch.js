@@ -4,7 +4,7 @@ var bgm;
 function preload()
 {
 	// load sound file into variable bgm
-	bgm = loadSound("https://bleungwpg.github.io/p5jsTutorial4.1/sounds/bensound-creativeminds.mp3");
+	bgm = loadSound("https://bleungwpg.github.io/p5jsTutorial4.1/sounds/windows.mp3");
 
 }
 
